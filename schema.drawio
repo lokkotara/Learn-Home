@@ -1,0 +1,162 @@
+<mxfile host="65bd71144e">
+    <diagram id="VV6yVI-7_Tjus_bYEH4i" name="Connexion">
+        <mxGraphModel dx="898" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="380" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-2" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-3" value="Eleve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#4D9900;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Se connecter&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-5" value="Récupérer son mot de passe oublié" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="b6IE5KJu0wfvrEc3HuI2-6" value="Créer un compte" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Pl3cJ4qt8nhYlEPM4gxb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="40" width="640" height="360" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="FbNuD-Dwd6Hnji_ZP-Om" name="Tableau de bord">
+        <mxGraphModel dx="1078" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="380" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-2" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-3" value="Eleve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#4D9900;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-4" value="&lt;font color=&quot;#ffffff&quot;&gt;consulter un résumé des tâches&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-5" value="consulter les prochains évènements du calendrier" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="m_4rFNd15VjMjCUHrCDH-6" value="consulter ses messages non lus" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="fsPaZcrdbwvm3L-TR8yh-1" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Dd10-GP0Euwo1LTjxQ1k" name="Interface de chat">
+        <mxGraphModel dx="1078" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="380" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-2" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-3" value="Eleve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#4D9900;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-4" value="&lt;font color=&quot;#ffffff&quot;&gt;ajouter un contact au chat&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-5" value="retirer un contact du chat" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="hbaCSgcW2rqOxXvqrHuq-6" value="consulter l'historique des conversations" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="i0jz4FHtcolA97QFLhZU-1" value="Envoyer un message" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="350" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="i0jz4FHtcolA97QFLhZU-2" value="Modifier un message" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="440" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="i0jz4FHtcolA97QFLhZU-3" value="Retirer un message" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="g69IlU6z6alRfQroEImN-1" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="130" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="uF21JeRQ983Pjddr9tC_" name="Calendrier">
+        <mxGraphModel dx="1078" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="380" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-2" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-3" value="Eleve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#4D9900;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-4" value="&lt;font color=&quot;#ffffff&quot;&gt;consulter ses rendez-vous&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-5" value="Ajouter un évènement" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="fMYc0_0cqwbk8WTvo5k_-6" value="Supprimer un évènement" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ybeoTRs5t1obC7xfqhkU-1" value="Modifier un évènement&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="190" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="QnI8UpgNiXvLzYtCTYov-1" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="mc6i5W5Mgny3O_dFZ6OU" name="Gestion de tâches">
+        <mxGraphModel dx="1078" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="120" width="380" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-2" value="Tuteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-3" value="Eleve" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#4D9900;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="290" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-4" value="&lt;font color=&quot;#ffffff&quot;&gt;créer une tâche pour soi&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-5" value="Modifier une tâche" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="370" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ilO0pJVoCZo9LfobArHR-6" value="Supprimer une tâche" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="W-QugfjtZH3M3RwQxuGg-1" value="&lt;font color=&quot;#ffffff&quot;&gt;créer une tâche pour un élève&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="190" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="W-QugfjtZH3M3RwQxuGg-2" value="Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
